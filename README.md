@@ -38,7 +38,7 @@ See `requirements.txt`. Run on Google Colab (T4 GPU recommended).
 ## Usage
 Open `Lapaz_Paper.ipynb` in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/lapaz-survey-pipeline/blob/main/Lapaz_Paper.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/tauseef1417/La-Paz-Southern-Sky-Survey-Emission-Line-Object-Pipeline/blob/main/Lapaz_Paper_clean.ipynb)
 
 Mount your Google Drive and point the plate directory variable to your 
 digitized plate collection.
